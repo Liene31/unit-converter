@@ -53,11 +53,12 @@ button {
   border-radius: 5px;
   border: none;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
-.length-el,
-.volume-el,
-.mass-el {
+.length,
+.volume,
+.mass {
   background: #273549;
   margin: 25px;
   border-radius: 5px;
